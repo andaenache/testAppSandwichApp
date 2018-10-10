@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="RecentlyViewedDealsTests" type="CLASS" />
+      <mapping pattern="MyApptsListSort.json" type="JSON" />
+      <mapping pattern="CardSearch300Results" type="JSON" />
+      <mapping pattern="MyApptsListSort" type="JSON" />
+    </extensionMap>
+  </component>
+</application>
